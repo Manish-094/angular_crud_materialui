@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Fresh Apple",
+      "date": "2023-01-04T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 200,
+      "comment": "Good and Fresh Mango",
+      "date": "2023-01-29T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Potato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "Fresh Potato",
+      "date": "2023-01-03T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Computer",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 20000,
+      "comment": "Good Product With All Specification",
+      "date": "2023-01-13T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 45,
+      "comment": "Good and Fresh Orange",
+      "date": "2023-01-01T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Iphone",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 120000,
+      "comment": "Good Product",
+      "date": "2023-01-07T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 200,
+      "comment": "Good And Fresh Banana",
+      "date": "2023-01-11T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
